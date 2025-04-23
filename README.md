@@ -1,4 +1,4 @@
-## Projeto de Automação de Testes com Cypress
+## Projeto de Automação Web com Cypress
 Este projeto tem como objetivo automatizar os testes da funcionalidade de login do site Automation Pratice, utilizando a ferramenta Cypress.
 
 ## Tecnologias Utilizadas
